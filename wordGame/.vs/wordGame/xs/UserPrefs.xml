@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AB3DA03E-DB9B-A50C-7087-275BB97CF95D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/BagScript/BagScript.cs">
+    <Files>
+      <File FileName="Assets/Script/BagScript/ItemScript.cs" Line="14" Column="35" />
+      <File FileName="Assets/Script/BagScript/BagScript.cs" Line="5" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="wordGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="BagScript" expanded="True">
+                  <Node name="BagScript.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="548f1813-c80c-4465-b82e-b26aee2d6cbb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
