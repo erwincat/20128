@@ -12,3 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab858ed565f384d33962e3562e667ae2, type: 3}
   m_Name: Sold
   m_EditorClassIdentifier: 
+  ItemName: 
+  ItemICon: {fileID: 0}
+  ItemNumber: 0
+  ItemImage: {fileID: 0}
+  ItemInfo: "\u8FD9\u662F\u4E00\u628A\u6B66\u5668"
+  isCuandai: 0

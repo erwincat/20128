@@ -8,8 +8,9 @@ public class ItemScript : ScriptableObject
     public string ItemName;
     public Sprite ItemICon;
     public int ItemNumber;
+    public UnityEngine.UI.Image ItemImage;
     [TextArea]
     public string ItemInfo;
 
-    public bool isCuandai;//是否可装备
+    public bool isCuandai;//是否可装备s
 }
